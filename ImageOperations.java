@@ -30,7 +30,7 @@ public class ImageOperations {
    }
     
     public void writeImage(int r, int c, int[][] res) {
-        String path = "src/quantization/res.jpg";
+        String path = "src/quantization/result.jpg";
         BufferedImage image = new BufferedImage(r, c, BufferedImage.TYPE_INT_RGB);
         for (int x = 0; x < r; x++) {
             for (int y = 0; y < c; y++) {
