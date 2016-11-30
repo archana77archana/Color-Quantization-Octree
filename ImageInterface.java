@@ -9,7 +9,7 @@ import java.awt.image.BufferedImage;
 
 /**
  *
- * @author CB.EN.P2CSE16001
+ * @author casey
  */
 public interface ImageInterface {
     int[][] convertTo2DUsingGetRGB(BufferedImage image);
