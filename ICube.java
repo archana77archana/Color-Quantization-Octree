@@ -7,7 +7,7 @@ package quantization;
 
 /**
  *
- * @author CB.EN.P2CSE16001
+ * @author casey
  */
 public interface ICube {
     void classification();
